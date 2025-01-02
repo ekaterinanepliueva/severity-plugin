@@ -1,0 +1,7 @@
+id: severity
+name: Severity aggregator
+description: The aggregator adds widget with tests by severity
+extensions:
+  - com.qa.severity.plugin.SeverityPlugin
+jsFiles:
+  - index.js
